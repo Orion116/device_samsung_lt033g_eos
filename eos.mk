@@ -1,9 +1,9 @@
 $(call inherit-product, device/samsung/lt033g/full_lt033g.mk)
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common EOS stuff.
+$(call inherit-product, vendor/eos/config/common_full_phone.mk)
 
-PRODUCT_NAME := cm_lt033g
+PRODUCT_NAME := eos_lt033g
 PRODUCT_DEVICE := lt033g
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
