@@ -40,5 +40,12 @@
         "repository": "cyanogenmod/android_hardware_samsung_slsi_openmax",
         "revision": "cm-12.0",
         "target_path": "hardware/samsung_slsi/openmax"
+    },
+    {
+        "remote": "github",
+        "repository": "cyanogenmod/android_packages_apps_SamsungServiceMode",
+        "revision": "cm-12.0",
+        "target_path": "packages/apps/SamsungServiceMode"
     }
+
 ]
